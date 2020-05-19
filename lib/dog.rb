@@ -9,6 +9,7 @@ end
   end
   def bark=(dog_bark)
     @this_dog_barks = dog_bark
+  end
     def bark
       @this_dog_barks
     end
