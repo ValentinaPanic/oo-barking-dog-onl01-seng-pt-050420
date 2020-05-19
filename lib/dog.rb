@@ -8,3 +8,4 @@ def name=(dogs-name)
 end
 
 fido = Dog.new
+fido.name = "Fido"
