@@ -11,7 +11,7 @@ end
   #  @this_dog_barks = dog_bark
   #end
     def bark
-puts "woof!S"
+puts "woof!"
       #@this_dog_barks
     end
 end
